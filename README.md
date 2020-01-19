@@ -2,8 +2,12 @@
 
 Test repository readme file
 
-I. create a public repository 
+I. Create a public repository 
 
-II. create an alt branch 
+II. Create an alt branch 
 
-III. create a commit
+III. Create a commit
+
+IV. Submit a pull request
+
+V. Merge the request
