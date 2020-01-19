@@ -11,3 +11,7 @@ III. Create a commit
 IV. Submit a pull request
 
 V. Merge the request
+
+VI. Remove the alt branch
+
+VII. Commit changes in master branch
